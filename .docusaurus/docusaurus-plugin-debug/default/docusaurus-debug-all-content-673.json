@@ -8,9 +8,9 @@
           "versionPath": "/docs",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/Palma/Documents/Projects/webdev/my-website/sidebars.js",
-          "docsDirPath": "/Users/Palma/Documents/Projects/webdev/my-website/docs",
-          "docsDirPathLocalized": "/Users/Palma/Documents/Projects/webdev/my-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/Palma/Documents/Githubs/edu-plattform-docu/sidebars.js",
+          "docsDirPath": "/Users/Palma/Documents/Githubs/edu-plattform-docu/docs",
+          "docsDirPathLocalized": "/Users/Palma/Documents/Githubs/edu-plattform-docu/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "doc1",
           "sidebars": {
             "someSidebar": [
