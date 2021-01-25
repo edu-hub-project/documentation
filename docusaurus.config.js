@@ -2,7 +2,7 @@ module.exports = {
   title: 'Opencampus  Docs',
   tagline: 'The tagline of my site',
   url: 'https://opencampus-sh.github.io',
-  baseUrl: '/edu-plattform-docu',
+  baseUrl: '/edu-plattform-docu/build/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
