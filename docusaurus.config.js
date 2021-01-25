@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Opencampus  Docs',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://opencampus-sh.github.io',
+  baseUrl: '/edu-plattform-docu',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'opencampus-sh', // Usually your GitHub org/user name.
+  projectName: 'edu-plattform-docu', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',

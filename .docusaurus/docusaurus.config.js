@@ -109,7 +109,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/myrre/docusaurus/edu-plattform-docu/sidebars.js",
+          "sidebarPath": "/Users/Palma/Documents/Githubs/edu-plattform-docu/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -117,7 +117,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/home/myrre/docusaurus/edu-plattform-docu/src/css/custom.css"
+          "customCss": "/Users/Palma/Documents/Githubs/edu-plattform-docu/src/css/custom.css"
         }
       }
     ]
