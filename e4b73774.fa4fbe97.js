@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{95:function(o){o.exports=JSON.parse('{"allTagsPath":"/edu-plattform-docu/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/edu-plattform-docu/blog/tags/hello"}')}}]);
