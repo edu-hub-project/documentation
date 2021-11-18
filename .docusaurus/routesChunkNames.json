@@ -1,0 +1,150 @@
+{
+  "/documentation/blog-bc2": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "14e72bca"
+  },
+  "/documentation/blog/archive-4d8": {
+    "component": "9e4087bc",
+    "archive": "eda3af29"
+  },
+  "/documentation/blog/first-blog-post-55c": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/documentation/blog/long-blog-post-d20": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/documentation/blog/mdx-blog-post-ebc": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/documentation/blog/tags-cac": {
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "67391c37"
+  },
+  "/documentation/blog/tags/docusaurus-1ab": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "911fa9ef"
+  },
+  "/documentation/blog/tags/facebook-2b3": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "metadata": "de8ffbca"
+  },
+  "/documentation/blog/tags/hello-c43": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "metadata": "6a778ac4"
+  },
+  "/documentation/blog/tags/hola-37f": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "21a202db"
+  },
+  "/documentation/blog/welcome-22b": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/documentation/markdown-page-d54": {
+    "component": "1f391b9e",
+    "content": "393be207"
+  },
+  "/documentation/docs-a74": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/documentation/docs/dev/backend/start-562": {
+    "component": "17896441",
+    "content": "14c719fb"
+  },
+  "/documentation/docs/dev/frontend/start-feb": {
+    "component": "17896441",
+    "content": "da440947"
+  },
+  "/documentation/docs/dev/google-cloud/start-667": {
+    "component": "17896441",
+    "content": "83815b13"
+  },
+  "/documentation/docs/dev/keycloak/start-94a": {
+    "component": "17896441",
+    "content": "178b9b02"
+  },
+  "/documentation/docs/dev/serverless/hybrid-22d": {
+    "component": "17896441",
+    "content": "c07d30f0"
+  },
+  "/documentation/docs/dev/serverless/start-602": {
+    "component": "17896441",
+    "content": "1f3519d8"
+  },
+  "/documentation/docs/dev/start-66b": {
+    "component": "17896441",
+    "content": "a1b461b3"
+  },
+  "/documentation/docs/intro-9e8": {
+    "component": "17896441",
+    "content": "0e384e19"
+  },
+  "/documentation/docs/users/start-975": {
+    "component": "17896441",
+    "content": "ba8877fc"
+  },
+  "/documentation/-d97": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  }
+}

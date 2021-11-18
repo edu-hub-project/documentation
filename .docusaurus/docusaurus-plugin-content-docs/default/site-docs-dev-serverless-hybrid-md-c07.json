@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dev/serverless/hybrid",
+  "id": "dev/serverless/hybrid",
+  "isDocsHomePage": false,
+  "title": "Get Hybrid Participants",
+  "description": "The function is called ocgetparticipants_hybrid",
+  "source": "@site/docs/dev/serverless/hybrid.md",
+  "sourceDirName": "dev/serverless",
+  "slug": "/dev/serverless/hybrid",
+  "permalink": "/documentation/docs/dev/serverless/hybrid",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/serverless/hybrid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/documentation/docs/dev/serverless/start"
+  },
+  "next": {
+    "title": "Using the edu-hub platform",
+    "permalink": "/documentation/docs/users/start"
+  }
+}

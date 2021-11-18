@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dev/backend/start",
+  "id": "dev/backend/start",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "Here docu for the backend",
+  "source": "@site/docs/dev/backend/start.md",
+  "sourceDirName": "dev/backend",
+  "slug": "/dev/backend/start",
+  "permalink": "/documentation/docs/dev/backend/start",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/backend/start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "General",
+    "permalink": "/documentation/docs/dev/start"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/documentation/docs/dev/frontend/start"
+  }
+}

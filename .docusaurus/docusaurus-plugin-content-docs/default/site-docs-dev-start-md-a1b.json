@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dev/start",
+  "id": "dev/start",
+  "isDocsHomePage": false,
+  "title": "General",
+  "description": "The documentation for developers is divided into subsections:",
+  "source": "@site/docs/dev/start.md",
+  "sourceDirName": "dev",
+  "slug": "/dev/start",
+  "permalink": "/documentation/docs/dev/start",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Edu-Hub Project",
+    "permalink": "/documentation/docs/intro"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/documentation/docs/dev/backend/start"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dev-docu0",
+  "id": "dev-docu0",
+  "isDocsHomePage": false,
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/dev-docu0.md",
+  "sourceDirName": ".",
+  "slug": "/dev-docu0",
+  "permalink": "/docs/dev-docu0",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev-docu0.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/dev-docu"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

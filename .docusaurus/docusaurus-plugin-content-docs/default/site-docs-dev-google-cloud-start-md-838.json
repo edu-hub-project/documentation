@@ -1,0 +1,27 @@
+{
+  "unversionedId": "dev/google-cloud/start",
+  "id": "dev/google-cloud/start",
+  "isDocsHomePage": false,
+  "title": "Overview",
+  "description": "Here docu for the google stuff",
+  "source": "@site/docs/dev/google-cloud/start.md",
+  "sourceDirName": "dev/google-cloud",
+  "slug": "/dev/google-cloud/start",
+  "permalink": "/documentation/docs/dev/google-cloud/start",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/google-cloud/start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/documentation/docs/dev/frontend/start"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/documentation/docs/dev/keycloak/start"
+  }
+}

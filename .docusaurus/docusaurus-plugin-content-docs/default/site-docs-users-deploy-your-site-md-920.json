@@ -1,0 +1,27 @@
+{
+  "unversionedId": "users/deploy-your-site",
+  "id": "users/deploy-your-site",
+  "isDocsHomePage": false,
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/users/deploy-your-site.md",
+  "sourceDirName": "users",
+  "slug": "/users/deploy-your-site",
+  "permalink": "/docs/users/deploy-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/users/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/users/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/users/congratulations"
+  }
+}

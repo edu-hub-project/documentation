@@ -1,0 +1,23 @@
+{
+  "unversionedId": "users/start",
+  "id": "users/start",
+  "isDocsHomePage": false,
+  "title": "Using the edu-hub platform",
+  "description": "Here documentation for the user",
+  "source": "@site/docs/users/start.md",
+  "sourceDirName": "users",
+  "slug": "/users/start",
+  "permalink": "/documentation/docs/users/start",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/users/start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Hybrid Participants",
+    "permalink": "/documentation/docs/dev/serverless/hybrid"
+  }
+}

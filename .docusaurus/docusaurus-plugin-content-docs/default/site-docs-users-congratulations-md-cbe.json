@@ -1,0 +1,23 @@
+{
+  "unversionedId": "users/congratulations",
+  "id": "users/congratulations",
+  "isDocsHomePage": false,
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/users/congratulations.md",
+  "sourceDirName": "users",
+  "slug": "/users/congratulations",
+  "permalink": "/docs/users/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/users/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/users/deploy-your-site"
+  }
+}
