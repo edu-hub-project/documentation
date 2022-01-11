@@ -6,8 +6,8 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "edu-hub-project",
+  "projectName": "documentation",
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -47,7 +47,7 @@ export default {
           "label": "Users"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/edu-hub-project/documentation",
           "label": "GitHub",
           "position": "right"
         }
