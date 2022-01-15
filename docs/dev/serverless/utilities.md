@@ -7,6 +7,8 @@ sidebar_position: 4
 Some extra functions in case something goes wrong or some data needs to be double checked.
 They are meant to be used as local python scripts to download attendances in `.csv` (human-readable) or `.json` (to upload) files.
 
+These files (and the README) are available in their own repository [attendance-scripts](https://github.com/edu-hub-project/attendance-scripts).
+
 ## Get Zoom users
 
 It generates a .csv for each user (of the Zoom account) with the info about the user (id, name, emails).
