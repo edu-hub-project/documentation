@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Get Hybrid Participants",
-    "permalink": "/documentation/docs/dev/serverless/hybrid"
+    "title": "Utility Functions",
+    "permalink": "/documentation/docs/dev/serverless/utilities"
   }
 }

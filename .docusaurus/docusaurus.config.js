@@ -97,7 +97,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Opencampus.sh. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Opencampus.sh. Built with Docusaurus."
     },
     "prism": {
       "theme": {

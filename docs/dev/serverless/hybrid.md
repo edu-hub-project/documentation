@@ -1,10 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Get Hybrid Participants
 
-The function is called `oc_get_participants_hybrid`
+The function is called `oc_get_participants_hybrid`.
+This is the function used in the "old" platform.
 
 #### URL
 The url to call the function is

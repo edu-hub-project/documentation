@@ -21,7 +21,7 @@
     "permalink": "/documentation/docs/dev/keycloak/start"
   },
   "next": {
-    "title": "Get Hybrid Participants",
-    "permalink": "/documentation/docs/dev/serverless/hybrid"
+    "title": "Attendances",
+    "permalink": "/documentation/docs/dev/serverless/attendances"
   }
 }

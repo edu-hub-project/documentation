@@ -89,8 +89,18 @@
               },
               {
                 "type": "link",
+                "label": "Attendances",
+                "href": "/documentation/docs/dev/serverless/attendances"
+              },
+              {
+                "type": "link",
                 "label": "Get Hybrid Participants",
                 "href": "/documentation/docs/dev/serverless/hybrid"
+              },
+              {
+                "type": "link",
+                "label": "Utility Functions",
+                "href": "/documentation/docs/dev/serverless/utilities"
               }
             ]
           }

@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/documentation/__docusaurus/debug',
+    component: ComponentCreator('/documentation/__docusaurus/debug','9a6'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/config',
+    component: ComponentCreator('/documentation/__docusaurus/debug/config','9b2'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/content',
+    component: ComponentCreator('/documentation/__docusaurus/debug/content','9eb'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/globalData',
+    component: ComponentCreator('/documentation/__docusaurus/debug/globalData','4d6'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/metadata',
+    component: ComponentCreator('/documentation/__docusaurus/debug/metadata','c5d'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/registry',
+    component: ComponentCreator('/documentation/__docusaurus/debug/registry','32c'),
+    exact: true
+  },
+  {
+    path: '/documentation/__docusaurus/debug/routes',
+    component: ComponentCreator('/documentation/__docusaurus/debug/routes','e38'),
+    exact: true
+  },
+  {
     path: '/documentation/blog',
     component: ComponentCreator('/documentation/blog','bc2'),
     exact: true
@@ -65,7 +100,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs','a74'),
+    component: ComponentCreator('/documentation/docs','98b'),
     routes: [
       {
         path: '/documentation/docs/dev/backend/start',
@@ -92,6 +127,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/documentation/docs/dev/serverless/attendances',
+        component: ComponentCreator('/documentation/docs/dev/serverless/attendances','310'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/documentation/docs/dev/serverless/hybrid',
         component: ComponentCreator('/documentation/docs/dev/serverless/hybrid','22d'),
         exact: true,
@@ -100,6 +141,12 @@ export default [
       {
         path: '/documentation/docs/dev/serverless/start',
         component: ComponentCreator('/documentation/docs/dev/serverless/start','602'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/dev/serverless/utilities',
+        component: ComponentCreator('/documentation/docs/dev/serverless/utilities','4e1'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
