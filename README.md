@@ -1,6 +1,16 @@
-# Website
+# Documentation for the Edu-Hub Application
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+## [Click here to view the documention website](https://edu-hub-project.github.io/documentation/docs/intro)
+
+  
+    
+ <br>  
+ <br>
+ <br>
+   
+   
+The documentation is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
