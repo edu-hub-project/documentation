@@ -1,7 +1,4 @@
-# Documentation for the Edu-Hub Application
-
-
-## [Click here to view the documention website](https://edu-hub-project.github.io/documentation/docs/intro)
+# [Click here to view the documention website](https://edu-hub-project.github.io/documentation/docs/intro)
 
   
     
